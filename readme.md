@@ -1,1 +1,1 @@
-# Hi, I'm Michael. Thanks for stopping by.
+# Hi, I'm Michael. Thanks for coming.
