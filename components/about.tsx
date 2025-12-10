@@ -10,7 +10,7 @@ export function About() {
 					<a href="https://valtio.dev" target="_blank">
 						valtio
 					</a>{' '}
-					and have authored several of it's eco-system libraries.=
+					and have authored several of it's eco-system libraries.
 				</p>
 
 				<p className="text-pretty">
